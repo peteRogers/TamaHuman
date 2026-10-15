@@ -1,0 +1,4 @@
+.DS_Store
+# Bandai ROM dump: copyrighted, generate locally with tools/rom_to_header.py
+TamaHuman/tama_rom.h
+*.bin
